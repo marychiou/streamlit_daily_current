@@ -1,0 +1,9 @@
+[global]
+developmentMode = false
+
+[server]
+headless = true
+port = 8505
+
+[browser]
+gatherUsageStats = false
